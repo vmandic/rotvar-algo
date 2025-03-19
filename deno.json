@@ -1,0 +1,10 @@
+{
+  "tasks": {
+    "docker-build": "docker build -t rotvar-algo .",
+    "docker-run": "./scripts/docker-run.sh",
+    "compile": "deno compile --allow-read --output ./bin/rotvar main.ts"
+  },
+  "imports": {
+    "@std/assert": "jsr:@std/assert@1"
+  }
+}
