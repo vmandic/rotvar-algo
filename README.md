@@ -18,7 +18,7 @@
 1. 📥 Preuzmite i instalirajte [Deno](https://deno.land/).
 2. 🌀 Klonirajte ovaj repozitorij:
    ```bash
-   git clone https://github.com/vaš-korisnički-račun/rotvar-algo.git
+   git clone https://github.com/vmandic/rotvar-algo
    ```
 3. 📂 Uđite u direktorij projekta:
    ```bash
