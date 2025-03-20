@@ -1,3 +1,5 @@
+[![Docker Test, Build, and Push](https://github.com/vmandic/rotvar-algo/actions/workflows/docker-build.yml/badge.svg)](https://github.com/vmandic/rotvar-algo/actions/workflows/docker-build.yml)
+
 # 🎉 rotvar-algo
 
 > Caveat: Content is in Croatian language 🇭🇷 for educational purposes of kids.
